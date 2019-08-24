@@ -1,6 +1,6 @@
 package tw.brad.apps.brad32;
 //當圖片大於版面時,會跑版
-//用實際手機的寬跟高去拿到版面
+//用實際手機的寬跟高去拿到版面,似類別t看
 //GridView應用類似九宮格,搭配BaseAdapter跟
 //要登入gmail帳號 然後=Tools =>Firebase
 import androidx.appcompat.app.AppCompatActivity;
